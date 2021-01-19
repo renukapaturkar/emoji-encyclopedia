@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif italic;
+  text-align: center;
+  max-width: 42rem;
+
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.App .input-box {
+  padding: 1rem 2rem;
+  margin: 1rem;
+}
+
+.App .output-box {
+  padding: 1rem 1rem;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
